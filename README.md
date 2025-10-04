@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m Kamal Doddapaneni, a Master’s student in Computer Science at the University of Central Florida (GPA 4.0) and an aspiring Software Engineer passionate about building scalable and impactful software solutions.<br>💻 I enjoy working with Python, Java, C++, Django, React, and Machine Learning to create full-stack applications and intelligent systems.<br>🚀 Experienced as a Software Engineer Intern at Brahmin Solutions and Graduate Teaching Assistant at UCF, I focus on writing clean, efficient, and maintainable code.<br>📚 I’m constantly learning about distributed systems, cloud technologies, and AI/ML to stay at the forefront of software innovation.<br>
+I’m Kamal Doddapaneni, a Master’s student in Computer Science at the University of Central Florida (GPA 4.0).<br>
+An aspiring Software Engineer passionate about building scalable and impactful software solutions.<br>💻 I enjoy working with Python, Java, C++, Django, React, and Machine Learning to create full-stack applications and intelligent systems.<br>🚀 Experienced as a Software Engineer Intern at Brahmin Solutions and Graduate Teaching Assistant at UCF, I focus on writing clean, efficient, and maintainable code.<br>
 
 
 ## 🌐 Socials:
